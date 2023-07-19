@@ -1,10 +1,10 @@
 # Jogo-das-respostas-Sabias
 
-Um jogo que retorna uma resposta 'sabia' para seus questionamentos, rs.
+Um jogo que retorna uma resposta 'sábia' para seus questionamentos, rs.
 
 # Ferramentas utilizadas:
 - Linguagem Python
-- Bibliotecas Radom e Time (função sleep)
+- Bibliotecas Random e Time (função sleep)
 - Funções (para leitura do arquivo e tratamento)
 - Laços de repetição (for e while)
 
